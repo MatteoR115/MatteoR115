@@ -48,6 +48,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MatteoR115/MatteoR115/output/snake.svg" alt="Snake animation" />
-
 ###
